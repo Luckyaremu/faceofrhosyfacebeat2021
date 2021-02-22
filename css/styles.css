@@ -142,7 +142,7 @@ main {
 /* Card image */
 .card-image {
   width: 25rem;
-  height: 20rem;
+  height: 35rem;
   object-fit: cover;
   vertical-align: middle;
 }
