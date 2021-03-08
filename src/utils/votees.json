@@ -1,0 +1,38 @@
+[
+  {
+  "id": 1,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615159658/biden_kirhai.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  },
+  {
+  "id": 2,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615159658/biden_kirhai.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  },
+  {
+  "id": 3,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615160967/rhoda3_onqju5.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  },
+  {
+  "id": 4,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615159658/biden_kirhai.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  },
+  {
+  "id": 5,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615160967/rhoda3_onqju5.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  },
+  {
+  "id": 6,
+  "image": "https://res.cloudinary.com/hellobooks/image/upload/v1615159658/biden_kirhai.jpg",
+  "name": "Someone Beautiful",
+  "votes": 0
+  }
+]

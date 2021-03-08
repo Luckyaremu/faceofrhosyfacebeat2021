@@ -1,0 +1,82 @@
+/*************** 
+ * BASE STYLES *
+ ***************/
+
+/* Variables */
+$black: #1b1d29;
+$white: #ffffff;
+$shadow: #009688;
+$green: #28a745;
+$blue: #007bff;
+$lightGrey: #EFEFEF;
+body   {
+  height: 100%;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  height: 10rem;
+}
+
+.logo {
+  width: 3rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-outline-primary:hover {
+  background-color: $blue;
+  color: $white
+}
+
+.btn-outline-success:hover {
+  background-color: $green;
+  color: $white;
+}
+
+.btn-outline-primary {
+  border: 1px solid $blue;
+  color: $blue
+}
+
+.btn-outline-success {
+  border: 1px solid $green;
+  color: $green;
+  margin-right: 1rem;
+}
+
+.btn {
+  height: 3rem;
+  width: 7rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar {
+  display: flex;
+  color: $white;
+  align-items: center;
+  height: 8rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background: $black;
+  justify-content: space-between;
+}
+
+.form-inline {
+  display: flex;
+  align-items: center;
+}
+
+// .form-inline {
+//   flex-grow: 1;
+// }
+
